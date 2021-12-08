@@ -1,1 +1,1 @@
-# POS
+# Point of Sale Terminal (POS)
